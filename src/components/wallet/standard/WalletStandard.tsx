@@ -646,7 +646,7 @@ export default function StandardWallet(props: StandardWalletProps) {
         <Flex flexGrow={1}>
           {showTitle && (
             <Typography variant="h5" gutterBottom>
-              <Trans>Chaingreen Wallet</Trans>
+              <Trans>Chia Wallet</Trans>
             </Typography>
           )}
         </Flex>
