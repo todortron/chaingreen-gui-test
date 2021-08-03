@@ -718,10 +718,6 @@ msgid "Edit Payout Instructions"
 msgstr "Edit Payout Instructions"
 
 #: src/components/wallet/WalletImport.tsx:147
-msgid "Enter the 24 word mnemonic that you have saved in order to restore your Chaingreen wallet."
-msgstr ""
-
-#: src/components/wallet/WalletImport.tsx:147
 #~ msgid "Enter the 24 word mnemonic that you have saved in order to restore your Chia wallet."
 #~ msgstr "Enter the 24 word mnemonic that you have saved in order to restore your Chia wallet."
 
@@ -2667,3 +2663,4 @@ msgstr "{currencyCode} User Transaction Fees, extra beer money"
 #: src/components/core/components/Amount/Amount.tsx:80
 msgid "{mojo, plural, one {mojo} other {mojos}}"
 msgstr "{mojo, plural, one {mojo} other {mojos}}"
+
