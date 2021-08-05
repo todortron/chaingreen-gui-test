@@ -8,7 +8,7 @@ msgstr ""
 "Language: ja_JP\n"
 "Project-Id-Version: chia-blockchain\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2021-07-21 02:03\n"
+"PO-Revision-Date: 2021-08-05 21:54\n"
 "Last-Translator: \n"
 "Language-Team: Japanese\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -29,10 +29,6 @@ msgstr "(オプション)"
 #: src/components/plot/add/PlotAddNFT.tsx:123
 msgid "+ Add New Plot NFT"
 msgstr "+ 新規プロットNFT を追加"
-
-#: src/components/wallet/Wallets.tsx:122
-msgid "+ Add Wallet"
-msgstr ""
 
 #: src/components/plot/add/PlotAddNumberOfPlots.tsx:94
 #~ msgid "0 automatically chooses bucket count"
@@ -2667,3 +2663,4 @@ msgstr "{currencyCode} ユーザー取引手数料"
 #: src/components/core/components/Amount/Amount.tsx:80
 msgid "{mojo, plural, one {mojo} other {mojos}}"
 msgstr ""
+
