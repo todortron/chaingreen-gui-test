@@ -339,8 +339,8 @@ msgstr "Discută pe KeyBase"
 #~ msgstr "Wiki Blockchain Chia"
 
 #: src/components/wallet/standard/WalletStandard.tsx:649
-#~ msgid "Chia Wallet"
-#~ msgstr "Portofel Chia"
+msgid "Chia Wallet"
+msgstr "Portofel Chia"
 
 #: src/components/plot/add/PlotAddNumberOfPlots.tsx:36
 msgid "Choose Number of Plots"

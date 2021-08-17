@@ -339,8 +339,8 @@ msgstr "在 KeyBase 上閒聊"
 #~ msgstr "Chia 區塊鏈維基"
 
 #: src/components/wallet/standard/WalletStandard.tsx:649
-#~ msgid "Chia Wallet"
-#~ msgstr "Chia 錢包"
+msgid "Chia Wallet"
+msgstr "Chia 錢包"
 
 #: src/components/plot/add/PlotAddNumberOfPlots.tsx:36
 msgid "Choose Number of Plots"

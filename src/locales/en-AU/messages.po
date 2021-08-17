@@ -339,8 +339,8 @@ msgstr "Chat on KeyBase with the cool kids"
 #~ msgstr "Chia Blockchain Wiki"
 
 #: src/components/wallet/standard/WalletStandard.tsx:649
-#~ msgid "Chia Wallet"
-#~ msgstr "Chia Wallet with my future beer money"
+msgid "Chia Wallet"
+msgstr "Chia Wallet with my future beer money"
 
 #: src/components/plot/add/PlotAddNumberOfPlots.tsx:36
 msgid "Choose Number of Plots"
@@ -2663,4 +2663,3 @@ msgstr "{currencyCode} User Transaction Fees, extra beer money"
 #: src/components/core/components/Amount/Amount.tsx:80
 msgid "{mojo, plural, one {mojo} other {mojos}}"
 msgstr "{mojo, plural, one {mojo} other {mojos}}"
-

@@ -339,8 +339,8 @@ msgstr "Hubung Chat di KeyBase"
 #~ msgstr "Wiki Chia Blockchain"
 
 #: src/components/wallet/standard/WalletStandard.tsx:649
-#~ msgid "Chia Wallet"
-#~ msgstr "Wallet Chia"
+msgid "Chia Wallet"
+msgstr "Wallet Chia"
 
 #: src/components/plot/add/PlotAddNumberOfPlots.tsx:36
 msgid "Choose Number of Plots"

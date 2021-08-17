@@ -339,8 +339,8 @@ msgstr "키베이스에서 채팅하기"
 #~ msgstr "치아 블록체인 위키"
 
 #: src/components/wallet/standard/WalletStandard.tsx:649
-#~ msgid "Chia Wallet"
-#~ msgstr "치아 지갑"
+msgid "Chia Wallet"
+msgstr "치아 지갑"
 
 #: src/components/plot/add/PlotAddNumberOfPlots.tsx:36
 msgid "Choose Number of Plots"

@@ -339,8 +339,8 @@ msgstr "Keskustele KeyBasessa"
 #~ msgstr "Chia Wiki"
 
 #: src/components/wallet/standard/WalletStandard.tsx:649
-#~ msgid "Chia Wallet"
-#~ msgstr "Chia-lompakko"
+msgid "Chia Wallet"
+msgstr "Chia-lompakko"
 
 #: src/components/plot/add/PlotAddNumberOfPlots.tsx:36
 msgid "Choose Number of Plots"

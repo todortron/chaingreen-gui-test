@@ -339,8 +339,8 @@ msgstr "Keybase'de Sohbet Et"
 #~ msgstr "Chia Blokchain Wiki"
 
 #: src/components/wallet/standard/WalletStandard.tsx:649
-#~ msgid "Chia Wallet"
-#~ msgstr "Chia Cüzdanı"
+msgid "Chia Wallet"
+msgstr "Chia Cüzdanı"
 
 #: src/components/plot/add/PlotAddNumberOfPlots.tsx:36
 msgid "Choose Number of Plots"
@@ -2667,4 +2667,3 @@ msgstr "{currencyCode} Kullanıcı Transfer Ücretleri"
 #: src/components/core/components/Amount/Amount.tsx:80
 msgid "{mojo, plural, one {mojo} other {mojos}}"
 msgstr ""
-
