@@ -49,11 +49,11 @@ export default function DashboardSideBar() {
           icon={<PlotIcon fontSize="large" />}
           title={<Trans>Plots</Trans>}
         />
-        {/* <SideBarItem
+        <SideBarItem
           to="/dashboard/farm"
           icon={<FarmIcon fontSize="large" />}
           title={<Trans>Farm</Trans>}
-        /> */}
+        />
         <SideBarItem
           to="/dashboard/pool"
           icon={<PoolIcon fontSize="large" />}
