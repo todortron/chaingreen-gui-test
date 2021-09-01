@@ -300,6 +300,10 @@ msgstr "YO, maroonin' these crewdogs will let 'em be gone forever. Check that th
 msgid "Chaingreen"
 msgstr ""
 
+#: src/components/wallet/standard/WalletStandard.tsx:649
+msgid "Chaingreen Wallet"
+msgstr ""
+
 #: src/electron/main.tsx:358
 msgid "Chaingreen Wiki"
 msgstr ""
@@ -335,8 +339,8 @@ msgstr "Natter on KeyBase"
 #~ msgstr "Chia Blockchain Wiki"
 
 #: src/components/wallet/standard/WalletStandard.tsx:649
-msgid "Chia Wallet"
-msgstr "Chia Treasure Chest"
+#~ msgid "Chia Wallet"
+#~ msgstr "Chia Treasure Chest"
 
 #: src/components/plot/add/PlotAddNumberOfPlots.tsx:36
 msgid "Choose Number of Plots"
@@ -1954,8 +1958,13 @@ msgstr "Spendin' Interval Length (number o' booties)"
 
 #: src/components/wallet/rateLimited/WalletRateLimited.jsx:401
 #: src/components/wallet/rateLimited/WalletRateLimited.jsx:448
-msgid "Spending Limit (chia per interval): {0}"
-msgstr "Squanderin' Limit (chia per interval): {0}"
+msgid "Spending Limit (chaingreen per interval): {0}"
+msgstr ""
+
+#: src/components/wallet/rateLimited/WalletRateLimited.jsx:401
+#: src/components/wallet/rateLimited/WalletRateLimited.jsx:448
+#~ msgid "Spending Limit (chia per interval): {0}"
+#~ msgstr "Squanderin' Limit (chia per interval): {0}"
 
 #: src/components/fullNode/FullNode.jsx:100
 msgid "State"

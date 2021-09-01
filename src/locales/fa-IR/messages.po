@@ -304,6 +304,10 @@ msgstr "اخطار، حذف این پلات ها، آنها را برای همی
 msgid "Chaingreen"
 msgstr ""
 
+#: src/components/wallet/standard/WalletStandard.tsx:649
+msgid "Chaingreen Wallet"
+msgstr ""
+
 #: src/electron/main.tsx:358
 msgid "Chaingreen Wiki"
 msgstr ""
@@ -339,8 +343,8 @@ msgstr "در اپلیکیشن KeyBase صبحت کنید"
 #~ msgstr "ویکی زنجیره بلوکی چیـا"
 
 #: src/components/wallet/standard/WalletStandard.tsx:649
-msgid "Chia Wallet"
-msgstr "کیف پول چیـا"
+#~ msgid "Chia Wallet"
+#~ msgstr "کیف پول چیـا"
 
 #: src/components/plot/add/PlotAddNumberOfPlots.tsx:36
 msgid "Choose Number of Plots"
@@ -1960,8 +1964,13 @@ msgstr "مدت فاصله خرج کردن (تعداد بلوک ها)"
 
 #: src/components/wallet/rateLimited/WalletRateLimited.jsx:401
 #: src/components/wallet/rateLimited/WalletRateLimited.jsx:448
-msgid "Spending Limit (chia per interval): {0}"
-msgstr "محدودیت خرج کردن (چیـا بر فاصله): {0}"
+msgid "Spending Limit (chaingreen per interval): {0}"
+msgstr ""
+
+#: src/components/wallet/rateLimited/WalletRateLimited.jsx:401
+#: src/components/wallet/rateLimited/WalletRateLimited.jsx:448
+#~ msgid "Spending Limit (chia per interval): {0}"
+#~ msgstr "محدودیت خرج کردن (چیـا بر فاصله): {0}"
 
 #: src/components/fullNode/FullNode.jsx:100
 msgid "State"

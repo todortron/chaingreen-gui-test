@@ -300,6 +300,10 @@ msgstr "Var försiktig. Om dessa plottar tas bort försvinner de för alltid. Ko
 msgid "Chaingreen"
 msgstr ""
 
+#: src/components/wallet/standard/WalletStandard.tsx:649
+msgid "Chaingreen Wallet"
+msgstr ""
+
 #: src/electron/main.tsx:358
 msgid "Chaingreen Wiki"
 msgstr ""
@@ -335,8 +339,8 @@ msgstr "Chatta på KeyBase"
 #~ msgstr "Chia Blockchains wiki"
 
 #: src/components/wallet/standard/WalletStandard.tsx:649
-msgid "Chia Wallet"
-msgstr "Chia-plånbok"
+#~ msgid "Chia Wallet"
+#~ msgstr "Chia-plånbok"
 
 #: src/components/plot/add/PlotAddNumberOfPlots.tsx:36
 msgid "Choose Number of Plots"
@@ -1954,8 +1958,13 @@ msgstr "Längd på spenderintervall (antal block)"
 
 #: src/components/wallet/rateLimited/WalletRateLimited.jsx:401
 #: src/components/wallet/rateLimited/WalletRateLimited.jsx:448
-msgid "Spending Limit (chia per interval): {0}"
-msgstr "Spenderbegränsning (chia per intervall): {0}"
+msgid "Spending Limit (chaingreen per interval): {0}"
+msgstr ""
+
+#: src/components/wallet/rateLimited/WalletRateLimited.jsx:401
+#: src/components/wallet/rateLimited/WalletRateLimited.jsx:448
+#~ msgid "Spending Limit (chia per interval): {0}"
+#~ msgstr "Spenderbegränsning (chia per intervall): {0}"
 
 #: src/components/fullNode/FullNode.jsx:100
 msgid "State"
