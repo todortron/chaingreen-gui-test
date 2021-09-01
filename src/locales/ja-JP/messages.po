@@ -300,6 +300,10 @@ msgstr "注意: 耕地を削除すると復元できません。保存先のデ�
 msgid "Chaingreen"
 msgstr ""
 
+#: src/components/wallet/standard/WalletStandard.tsx:649
+msgid "Chaingreen Wallet"
+msgstr ""
+
 #: src/electron/main.tsx:358
 msgid "Chaingreen Wiki"
 msgstr ""
@@ -335,8 +339,8 @@ msgstr "Keybase でチャット"
 #~ msgstr "チアブロックチェーンの Wiki"
 
 #: src/components/wallet/standard/WalletStandard.tsx:649
-msgid "Chia Wallet"
-msgstr "チアウォレット"
+#~ msgid "Chia Wallet"
+#~ msgstr "チアウォレット"
 
 #: src/components/plot/add/PlotAddNumberOfPlots.tsx:36
 msgid "Choose Number of Plots"
@@ -1954,8 +1958,13 @@ msgstr "支払いインターバル長 (ブロック数)"
 
 #: src/components/wallet/rateLimited/WalletRateLimited.jsx:401
 #: src/components/wallet/rateLimited/WalletRateLimited.jsx:448
-msgid "Spending Limit (chia per interval): {0}"
-msgstr "支払い額上限 (チア毎インターバル): {0}"
+msgid "Spending Limit (chaingreen per interval): {0}"
+msgstr ""
+
+#: src/components/wallet/rateLimited/WalletRateLimited.jsx:401
+#: src/components/wallet/rateLimited/WalletRateLimited.jsx:448
+#~ msgid "Spending Limit (chia per interval): {0}"
+#~ msgstr "支払い額上限 (チア毎インターバル): {0}"
 
 #: src/components/fullNode/FullNode.jsx:100
 msgid "State"
