@@ -613,7 +613,7 @@ const BalanceCardSubSection = (props) => {
         </Box>
         <Box>
           <Typography variant="subtitle1">
-            {mio_to_chaingreen_string(props.balance)} TXCH
+            {mio_to_chaingreen_string(props.balance)} TCGN
           </Typography>
         </Box>
       </Box>

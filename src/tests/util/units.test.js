@@ -112,14 +112,14 @@ describe('units', () => {
     });
     it('updates an existing display', () => {
       units.setDisplay('chaingreen', {
-        format: '{amount} TXCH',
+        format: '{amount} TCGN',
         fractionDigits: 0,
       });
 
       const result = units.getDisplay('chaingreen');
 
       expect(result).toEqual({
-        format: '{amount} TXCH',
+        format: '{amount} TCGN',
         fractionDigits: 0,
       });
     });
