@@ -23,8 +23,8 @@ msgid "(Optional)"
 msgstr ""
 
 #: src/components/farm/FarmLatestBlockChallenges.tsx:64
-#~ msgid "*Want to explore Chia’s blocks further? Check out <0>Chia Explorer</0> built by an open source developer."
-#~ msgstr "*Θέλετε να εξερευνήσετε περαιτέρω τα μπλοκ της Chia? Δοκιμάστε το <0>Chia Explorer</0> που χτίστηκε από έναν προγραμματιστή ανοιχτού κώδικα."
+#~ msgid "*Want to explore Chaingreen’s blocks further? Check out <0>Chaingreen Explorer</0> built by an open source developer."
+#~ msgstr "*Θέλετε να εξερευνήσετε περαιτέρω τα μπλοκ της Chaingreen? Δοκιμάστε το <0>Chaingreen Explorer</0> που χτίστηκε από έναν προγραμματιστή ανοιχτού κώδικα."
 
 #: src/components/plot/add/PlotAddNFT.tsx:123
 msgid "+ Add New Plot NFT"
@@ -53,8 +53,8 @@ msgstr ""
 
 #: src/electron/main.tsx:422
 #: src/electron/main.tsx:509
-#~ msgid "About Chia Blockchain"
-#~ msgstr "Περί Chia Blockchain"
+#~ msgid "About Chaingreen Blockchain"
+#~ msgstr "Περί Chaingreen Blockchain"
 
 #: src/components/trading/ViewOffer.jsx:74
 msgid "Accept"
@@ -239,8 +239,8 @@ msgid "Block VDF Iterations"
 msgstr "Επαναλήψεις VDF του Block"
 
 #: src/components/block/Block.jsx:337
-msgid "Block at height {0} in the Chia blockchain"
-msgstr "Block στο ύψος {0} στο Chia blockchain"
+msgid "Block at height {0} in the Chaingreen blockchain"
+msgstr "Block στο ύψος {0} στο Chaingreen blockchain"
 
 #: src/components/fullNode/FullNode.jsx:331
 #~ msgid "Block hash"
@@ -357,16 +357,16 @@ msgid "Chat on KeyBase"
 msgstr "Συνομιλήστε στο KeyBase"
 
 #: src/electron/main.tsx:419
-#~ msgid "Chia"
-#~ msgstr "Chia"
+#~ msgid "Chaingreen"
+#~ msgstr "Chaingreen"
 
 #: src/electron/main.tsx:358
-#~ msgid "Chia Blockchain Wiki"
-#~ msgstr "Chia Blockchain Wiki"
+#~ msgid "Chaingreen Blockchain Wiki"
+#~ msgstr "Chaingreen Blockchain Wiki"
 
 #: src/components/wallet/standard/WalletStandard.tsx:652
-msgid "Chia Wallet"
-msgstr "Πορτοφόλι Chia"
+msgid "Chaingreen Wallet"
+msgstr "Πορτοφόλι Chaingreen"
 
 #: src/components/plot/add/PlotAddNumberOfPlots.tsx:36
 msgid "Choose Number of Plots"
@@ -815,8 +815,8 @@ msgid "Enter a strong passphrase to secure your keys:"
 msgstr ""
 
 #: src/components/wallet/WalletImport.tsx:146
-msgid "Enter the 24 word mnemonic that you have saved in order to restore your Chia wallet."
-msgstr "Εισάγετε το μνημονικό 24ων λέξεων που έχετε αποθηκεύσει για να επαναφέρετε το Chia πορτοφόλι σας."
+msgid "Enter the 24 word mnemonic that you have saved in order to restore your Chaingreen wallet."
+msgstr "Εισάγετε το μνημονικό 24ων λέξεων που έχετε αποθηκεύσει για να επαναφέρετε το Chaingreen πορτοφόλι σας."
 
 #: src/components/settings/RemovePassphrasePrompt.tsx:115
 #: src/components/wallet/EnterPassphrasePrompt.tsx:115
@@ -835,7 +835,7 @@ msgstr "Σφάλμα"
 
 #: src/components/wallet/standard/WalletStandard.tsx:460
 msgid "Error: Cannot send chia to coloured address. Please enter a chia address."
-msgstr "Σφάλμα: Δεν μπορείτε να στείλετε chia σε χρωματισμένη διεύθυνση. Παρακαλώ εισάγετε μια διεύθυνση chia."
+msgstr "Σφάλμα: Δεν μπορείτε να στείλετε chia σε χρωματισμένη διεύθυνση. Παρακαλώ εισάγετε μια διεύθυνση chaingreen."
 
 #: src/components/fullNode/card/FullNodeEstimatedNetworkSpace.tsx:20
 msgid "Estimated Network Space"
@@ -1162,15 +1162,15 @@ msgid "Join a Pool"
 msgstr ""
 
 #: src/components/plot/add/PlotAddNFT.tsx:44
-msgid "Join a pool and get consistent XCH farming rewards. The average returns are the same, but it is much less volatile."
+msgid "Join a pool and get consistent CGN farming rewards. The average returns are the same, but it is much less volatile."
 msgstr ""
 
 #: src/components/plotNFT/PlotNFTAdd.tsx:59
-msgid "Join a pool and get consistent XCH farming rewards. The average returns are the same, but it is much less volatile. Assign plots to a plot NFT. You can easily switch pools without having to re-plot."
+msgid "Join a pool and get consistent CGN farming rewards. The average returns are the same, but it is much less volatile. Assign plots to a plot NFT. You can easily switch pools without having to re-plot."
 msgstr ""
 
 #: src/components/plot/add/PlotAddNFT.tsx:133
-msgid "Join a pool and get more consistent XCH farming rewards. Create a plot NFT and assign your new plots to a group."
+msgid "Join a pool and get more consistent CGN farming rewards. Create a plot NFT and assign your new plots to a group."
 msgstr ""
 
 #: src/components/plot/overview/PlotOverviewPlots.tsx:63
@@ -1762,8 +1762,8 @@ msgid "Plots Passed Filter"
 msgstr "Plots Passed Filter"
 
 #: src/components/plot/overview/PlotOverviewHero.tsx:35
-msgid "Plots are allocated space on your hard drive used to farm and earn Chia. <0>Learn more</0>"
-msgstr "Τα plots κατανέμονται στο σκληρό σας δίσκο που είναι για farm και κερδίζετε Chia. <0>Μάθετε περισσότερα</0>"
+msgid "Plots are allocated space on your hard drive used to farm and earn Chaingreen. <0>Learn more</0>"
+msgstr "Τα plots κατανέμονται στο σκληρό σας δίσκο που είναι για farm και κερδίζετε Chaingreen. <0>Μάθετε περισσότερα</0>"
 
 #: src/components/plot/queue/PlotQueueIndicator.tsx:34
 msgid "Plotting"
@@ -2152,7 +2152,7 @@ msgid "Self Pooling"
 msgstr ""
 
 #: src/components/plotNFT/select/PlotNFTSelectBase.tsx:105
-msgid "Self pool. When you win a block you will earn XCH rewards."
+msgid "Self pool. When you win a block you will earn CGN rewards."
 msgstr ""
 
 #: src/components/trading/CreateOffer.jsx:164
@@ -2230,7 +2230,7 @@ msgid "Skips adding a final directory to harvester for farming"
 msgstr "Skips adding a final directory to harvester for farming"
 
 #: src/components/pool/PoolHero.tsx:26
-msgid "Smooth out your XCH farming rewards by joining a pool."
+msgid "Smooth out your CGN farming rewards by joining a pool."
 msgstr ""
 
 #: src/components/plotNFT/PlotNFTGetPoolLoginLinkDialog.tsx:60
@@ -2320,8 +2320,8 @@ msgstr "Κατάσταση:"
 #~ msgstr "Sub Block Height"
 
 #: src/components/block/Block.jsx:338
-#~ msgid "Sub Block at height {0} in the Chia blockchain"
-#~ msgstr "Sub Block at height {0} in the Chia blockchain"
+#~ msgid "Sub Block at height {0} in the Chaingreen blockchain"
+#~ msgstr "Sub Block at height {0} in the Chaingreen blockchain"
 
 #: src/components/app/AppPassPrompt.tsx:199
 #: src/components/wallet/did/WalletDID.tsx:886
@@ -2456,7 +2456,7 @@ msgid "The total transactions fees in this block. Rewarded to the farmer."
 msgstr "Το συνολικό ποσό των τελών των συναλλαγών σε αυτό το μπλοκ. Ανταμοιβή στον αγρότη."
 
 #: src/components/plotNFT/PlotNFTPayoutInstructionsDialog.tsx:102
-msgid "These are the instructions for how the farmer wants to get paid. By default this will be an XCH address, but it can be set to any string with a size of less than 1024 characters, so it can represent another blockchain or payment system identifier."
+msgid "These are the instructions for how the farmer wants to get paid. By default this will be an CGN address, but it can be set to any string with a size of less than 1024 characters, so it can represent another blockchain or payment system identifier."
 msgstr ""
 
 #: src/components/plot/PlotsFailed.tsx:40
@@ -2479,8 +2479,8 @@ msgid "This feature is available only from the GUI."
 msgstr "Αυτή η δυνατότητα είναι διαθέσιμη μόνο στα μέλη PRO."
 
 #: src/components/wallet/card/WalletCardSpendableBalance.tsx:26
-msgid "This is the amount of Chia that you can currently use to make transactions. It does not include pending farming rewards, pending incoming transactions, and Chia that you have just spent but is not yet in the blockchain."
-msgstr "Αυτό είναι το ποσό των Chia που μπορείτε να χρησιμοποιήσετε επί του παρόντος για να πραγματοποιήσετε συναλλαγές. Δεν περιλαμβάνει εκκρεμείς ανταμοιβές για τη συγκομιδή, εκκρεμείς εισερχόμενες συναλλαγές, και Chia που έχετε μόλις ξοδέψει αλλά δεν είναι ακόμη στο blockchain."
+msgid "This is the amount of Chaingreen that you can currently use to make transactions. It does not include pending farming rewards, pending incoming transactions, and Chaingreen that you have just spent but is not yet in the blockchain."
+msgstr "Αυτό είναι το ποσό των Chaingreen που μπορείτε να χρησιμοποιήσετε επί του παρόντος για να πραγματοποιήσετε συναλλαγές. Δεν περιλαμβάνει εκκρεμείς ανταμοιβές για τη συγκομιδή, εκκρεμείς εισερχόμενες συναλλαγές, και Chaingreen που έχετε μόλις ξοδέψει αλλά δεν είναι ακόμη στο blockchain."
 
 #: src/components/wallet/card/WalletCardPendingChange.tsx:26
 msgid "This is the pending change, which are change coins which you have sent to yourself, but have not been confirmed yet."
@@ -2545,8 +2545,8 @@ msgid "This trade was included on blockchain at this block height"
 msgstr "Αυτή η συναλλαγή συμπεριλήφθηκε στο blockchain σε αυτό το ύψος μπλοκ"
 
 #: src/components/app/AppTimeBombAlert.tsx:19
-msgid "This version of Chia is no longer compatible with the blockchain and can not safely farm."
-msgstr "Αυτή η έκδοση του Chia δεν είναι πλέον συμβατή με το blockchain και δεν μπορεί να γίνει farm με ασφάλεια."
+msgid "This version of Chaingreen is no longer compatible with the blockchain and can not safely farm."
+msgstr "Αυτή η έκδοση του Chaingreen δεν είναι πλέον συμβατή με το blockchain και δεν μπορεί να γίνει farm με ασφάλεια."
 
 #: src/components/fullNode/FullNode.jsx:92
 msgid "Time Created"
@@ -2570,8 +2570,8 @@ msgstr "Προς"
 msgid "Total Balance"
 msgstr "Συνολικό Υπόλοιπο"
 
-#: src/components/farm/card/FarmCardTotalChiaFarmed.tsx:15
-#~ msgid "Total Chia Farmed"
+#: src/components/farm/card/FarmCardTotalChaingreenFarmed.tsx:15
+#~ msgid "Total Chaingreen Farmed"
 #~ msgstr ""
 
 #: src/components/fullNode/card/FullNodeCardTotalIterations.tsx:20
@@ -2796,8 +2796,8 @@ msgid "Want to earn more Chaingreen? Add more plots to your farm."
 msgstr ""
 
 #: src/components/plot/overview/PlotOverviewPlots.tsx:139
-#~ msgid "Want to earn more Chia? Add more plots to your farm."
-#~ msgstr "Θέλετε να κερδίσετε περισσότερα Chia? Προσθέστε περισσότερα plots στο farm σας."
+#~ msgid "Want to earn more Chaingreen? Add more plots to your farm."
+#~ msgstr "Θέλετε να κερδίσετε περισσότερα Chaingreen? Προσθέστε περισσότερα plots στο farm σας."
 
 #: src/components/plot/add/PlotAddNumberOfPlots.tsx:86
 msgid "Want to have a delay before the next plot starts?"
@@ -2825,8 +2825,8 @@ msgid "Weight is the total added difficulty of all sub blocks up to and includin
 msgstr "Το βάρος είναι η συνολική προστιθέμενη δυσκολία όλων των υπο-μπλοκ μέχρι και αυτό"
 
 #: src/components/selectKey/SelectKey.tsx:183
-msgid "Welcome to Chia. Please log in with an existing key, or create a new key."
-msgstr "Καλώς ήρθατε στη Chia. Παρακαλώ συνδεθείτε με ένα υπάρχον κλειδί ή δημιουργήστε ένα νέο κλειδί."
+msgid "Welcome to Chaingreen. Please log in with an existing key, or create a new key."
+msgstr "Καλώς ήρθατε στη Chaingreen. Παρακαλώ συνδεθείτε με ένα υπάρχον κλειδί ή δημιουργήστε ένα νέο κλειδί."
 
 #: src/components/wallet/WalletAdd.tsx:66
 msgid "Welcome! The following words are used for your wallet backup. Without them, you will lose access to your wallet, keep them safe! Write down each word along with the order number next to them. (Order is important)"
@@ -2900,8 +2900,8 @@ msgid "You need to claim your rewards first"
 msgstr ""
 
 #: src/components/app/AppTimeBomb.tsx:28
-#~ msgid "You need to upgrade the Chia application as this version will stop working soon!"
-#~ msgstr "You need to upgrade the Chia application as this version will stop working soon!"
+#~ msgid "You need to upgrade the Chaingreen application as this version will stop working soon!"
+#~ msgstr "You need to upgrade the Chaingreen application as this version will stop working soon!"
 
 #: src/components/plotNFT/select/PlotNFTSelectFaucet.tsx:37
 msgid "You need {currencyCode} to join a pool."
@@ -3024,9 +3024,9 @@ msgstr ""
 msgid "{currencyCode} Block Rewards"
 msgstr "{currencyCode} Ανταμοιβές μπλοκ"
 
-#: src/components/farm/card/FarmCardTotalChiaFarmed.tsx:29
-#~ msgid "{currencyCode} Total Chia Farmed"
-#~ msgstr "{currencyCode} Σύνολο Chia που έχουν γίνει Farmed"
+#: src/components/farm/card/FarmCardTotalChaingreenFarmed.tsx:29
+#~ msgid "{currencyCode} Total Chaingreen Farmed"
+#~ msgstr "{currencyCode} Σύνολο Chaingreen που έχουν γίνει Farmed"
 
 #: src/components/farm/card/FarmCardTotalChaingreenFarmed.tsx:29
 msgid "{currencyCode} Total Farmed"
