@@ -79,15 +79,15 @@ export default function CreateOffer() {
       );
       return;
     }
-    const mojo =
+    const mio =
       wallets[wallet_id.value].type === COLOURED_COIN
         ? colouredcoin_to_mojo(amount_input.value)
         : chaingreen_to_mio(amount_input.value);
 
     const trade =
       buy_or_sell.value === 1
-        ? newBuy(mojo, wallet_id.value)
-        : newSell(mojo, wallet_id.value);
+        ? newBuy(mio, wallet_id.value)
+        : newSell(mio, wallet_id.value);
 
     dispatch(addTrade(trade));
   }

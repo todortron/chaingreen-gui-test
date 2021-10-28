@@ -2698,6 +2698,6 @@ msgid "{currencyCode} User Transaction Fees"
 msgstr ""
 
 #: src/components/core/components/Amount/Amount.tsx:82
-msgid "{mojo, plural, one {mojo} other {mojos}}"
+msgid "{mio, plural, one {mio} other {mios}}"
 msgstr ""
 

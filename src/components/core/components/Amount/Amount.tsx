@@ -40,7 +40,7 @@ function NumberFormatCustom(props: NumberFormatCustomProps) {
 }
 
 export type AmountProps = TextFieldProps & {
-  children?: (props: { mojo: number; value: string | undefined }) => ReactNode;
+  children?: (props: { mio: number; value: string | undefined }) => ReactNode;
   name?: string;
 };
 
@@ -54,7 +54,7 @@ export default function Amount(props: AmountProps) {
     name,
   });
 
-  const mojo = chaingreen_to_mio(value);
+  const mio = chaingreen_to_mio(value);
 
   return (
     <FormControl variant={variant} fullWidth={fullWidth}>
@@ -75,18 +75,18 @@ export default function Amount(props: AmountProps) {
         <FormHelperText component='div' >
           <Flex alignItems="center" gap={2}>
             <Flex flexGrow={1} gap={1}>
-              {!!mojo && (
+              {!!mio && (
                 <>
-                  <FormatLargeNumber value={mojo} />
+                  <FormatLargeNumber value={mio} />
                   <Box>
-                    <Plural value={mojo} one="mojo" other="mojos" />
+                    <Plural value={mio} one="mio" other="mios" />
                   </Box>
                 </>
               )}
             </Flex>
             {children &&
               children({
-                mojo,
+                mio,
                 value,
               })}
           </Flex>
